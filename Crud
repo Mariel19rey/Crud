@@ -1,0 +1,30 @@
+<form>
+    Nombre:<input type="text"/>  <br/><br/>
+    Apellidos:<input type="text"/>   <br/><br/>
+    Contraseña: <input type="password"/>  <br/><br/>
+    casilla de verificación: <input type="checkbox"/> <br/><br/>
+    casilla de selección: <input type="radio"/>  <br/><br/>
+    selección de archivo:  <input type="file">  <br/><br/>
+    botón de envio: <input type="submit"> 
+    </form>
+
+    <form>
+
+ELIGE UN COLOR:<select>
+<option>Rojo</option>
+<option>Amarillo</option>
+<option>Azul</option>
+<option>Verde</option>
+<option>Rosa</option>
+</select>
+
+</form>
+
+form>
+  Nombre:
+    <input type="text"/>  <br/><br/>
+  Correo electrónico:
+    <input type="email"/>  <br/><br/>
+  Tu mensaje: 
+    <textarea name="mensaje"> </textarea> <br/><br/>
+    <input type…
